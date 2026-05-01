@@ -14,7 +14,7 @@ task.defer(function()
 	if pg then
 		local old = pg:FindFirstChild("GunPickerGui")
 		if old then
-			old:Destroy()
+			old:Distrid
 		end
 	end
 end)
